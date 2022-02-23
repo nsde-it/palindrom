@@ -1,5 +1,5 @@
+// Palindrom-Erkennung
 import basis.*;
-
 
 public class Palindrom {
     private Fenster fenster;
